@@ -1,0 +1,43 @@
+
+
+body{
+    
+    background-color: hsl(220, 15%, 55%);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Outfit', sans-serif;
+    padding-top: 3em;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-bottom: 3em;
+}
+
+.container
+{
+    
+    background-color: aliceblue;
+    border-radius: 25px;
+
+}
+.smallfontstyle
+{
+    color: hsl(212, 45%, 89%);
+}
+.image
+{
+    border-radius: 20px;
+    float:center;
+    alig;
+    width:300px;
+    height:300px;
+    
+
+}
+
+
+@media (min-width: 500px) {
+    .container{ width: 400px;}
+    img{max-width: 100;}
+}
