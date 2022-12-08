@@ -19,6 +19,8 @@ body{
     
     background-color: aliceblue;
     border-radius: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
 
 }
 .smallfontstyle
@@ -27,11 +29,12 @@ body{
 }
 .image
 {
-    border-radius: 20px;
+    
     float:center;
-    alig;
     width:300px;
     height:300px;
+    padding-top: 34px;
+    padding-left: 44px;
     
 
 }
